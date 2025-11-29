@@ -82,7 +82,7 @@ Hydra, Python 3.11, OpenSSL, Snort, Suricata, Elastic SIEM
 
 ### **Fraud Detection System**  
 | Metric | Baseline | Enhanced |
-|--------|----------|----------|
+|--------|----------|------
 | Accuracy | 68% | 92% |
 | Detection Time | 6 min | 2 min |
 | False Positives | 3% | 5% |
